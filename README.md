@@ -95,8 +95,11 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
-## SQUARE WAVEFORM
 ## SAWTOOTH WAVEFORM
+<img width="1280" height="791" alt="image" src="https://github.com/user-attachments/assets/47211028-785c-43f6-94f6-4376791ffd37" />
+
+## SQUARE WAVEFORM
+<img width="1280" height="799" alt="image" src="https://github.com/user-attachments/assets/52498590-1216-4f69-8123-ad2a03e0b54f" />
 
 ## Result
 Thus, the **DAC was interfaced with 8086** and different **waveforms** were successfully generated.
